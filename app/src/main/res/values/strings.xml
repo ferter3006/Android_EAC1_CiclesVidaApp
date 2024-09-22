@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CicleVidaEAC1Ferrater</string>
+    <string name="autor">Lluís Ferrater</string>
+    <string name="titul">Monitoratge Cicles de Vida</string>
+    <string name="btn_reset">Neteja Llista</string>
+</resources>
